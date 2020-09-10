@@ -8,8 +8,8 @@ SceneKit
 
 ## Goal 
 Add nodes where we want to measure 
-Detect 2D coordinates to measure real world distances in AR;
-Create 3D objects and text in AR 
+
+Detect 2D coordinates to measure real world distances in AR; Create 3D objects and text in AR 
 
 ## Note 
 To reduce the size of the file, I had to cut the video about 20 seconds short. 
